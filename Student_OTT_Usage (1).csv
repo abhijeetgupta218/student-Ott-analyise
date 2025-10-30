@@ -1,0 +1,801 @@
+Student_ID,Name,Age,Gender,Netflix,Prime,YouTube,Device_Used,Hours_per_day,Favourite_Genre,Subscription_Type
+1,Sahil Nair,24,Male,No,Yes,No,Mobile,4.5,Action,Free
+2,Karan Patel,25,Female,No,Yes,Yes,Smart TV,4.8,Thriller,Free
+3,Karan Joshi,22,Male,Yes,Yes,Yes,Tablet,0.7,Drama,Paid
+4,Pooja Yadav,20,Female,No,Yes,No,Smart TV,5.8,Documentary,Paid
+5,Pooja Bansal,25,Male,Yes,No,Yes,Mobile,4.3,Horror,Paid
+6,Sneha Singh,22,Female,Yes,Yes,No,Smart TV,2.8,Documentary,Free
+7,Tanya Reddy,19,Male,Yes,No,Yes,Mobile,4.1,Romance,Paid
+8,Arjun Mehta,22,Female,No,No,No,Smart TV,5.5,Action,Free
+9,Karan Yadav,21,Female,No,Yes,No,Laptop,1.0,Sci-Fi,Free
+10,Pooja Kumar,21,Male,Yes,No,No,Laptop,5.2,Thriller,Free
+11,Divya Mehta,19,Female,Yes,No,Yes,Smart TV,3.6,Horror,Paid
+12,Priya Saxena,25,Female,Yes,Yes,No,Laptop,2.3,Horror,Paid
+13,Arjun Nair,24,Female,No,Yes,No,Laptop,3.3,Comedy,Paid
+14,Sneha Mehta,18,Female,Yes,Yes,Yes,Smart TV,4.6,Comedy,Free
+15,Nikhil Rana,22,Female,No,No,Yes,Mobile,5.7,Sci-Fi,Free
+16,Abhishek Verma,18,Female,Yes,Yes,Yes,Smart TV,4.1,Drama,Paid
+17,Ravi Mehta,22,Female,No,No,Yes,Tablet,1.6,Thriller,Free
+18,Ankit Yadav,23,Female,Yes,Yes,Yes,Laptop,1.2,Romance,Free
+19,Arjun Sharma,18,Female,No,No,No,Mobile,1.8,Thriller,Free
+20,Sneha Tiwari,25,Female,Yes,No,No,Tablet,2.0,Drama,Paid
+21,Karan Verma,24,Female,Yes,Yes,No,Smart TV,4.8,Action,Paid
+22,Megha Verma,19,Male,Yes,No,Yes,Tablet,5.2,Action,Paid
+23,Pooja Pandey,20,Female,Yes,Yes,Yes,Laptop,2.9,Action,Free
+24,Ravi Pandey,18,Female,No,Yes,No,Tablet,2.4,Comedy,Free
+25,Isha Reddy,20,Female,Yes,Yes,Yes,Smart TV,0.5,Romance,Free
+26,Arjun Saxena,23,Female,No,Yes,Yes,Laptop,0.5,Drama,Free
+27,Karan Mehta,23,Male,Yes,No,Yes,Mobile,3.0,Comedy,Paid
+28,Isha Pandey,22,Male,No,Yes,Yes,Mobile,1.7,Horror,Free
+29,Sneha Agarwal,23,Male,Yes,Yes,Yes,Laptop,1.3,Thriller,Free
+30,Abhishek Pandey,20,Female,No,No,No,Laptop,4.3,Documentary,Paid
+31,Arjun Joshi,20,Female,Yes,No,Yes,Smart TV,3.6,Thriller,Free
+32,Nikhil Thakur,24,Male,Yes,Yes,Yes,Tablet,5.8,Thriller,Paid
+33,Karan Thakur,19,Male,Yes,Yes,No,Smart TV,5.2,Drama,Free
+34,Sneha Patel,25,Male,Yes,Yes,No,Laptop,2.2,Thriller,Free
+35,Simran Tiwari,21,Female,No,Yes,No,Smart TV,1.5,Horror,Paid
+36,Megha Patel,22,Female,No,Yes,Yes,Mobile,5.5,Thriller,Paid
+37,Vikram Sharma,23,Male,No,No,No,Smart TV,1.8,Horror,Paid
+38,Neha Verma,20,Male,No,Yes,No,Smart TV,1.4,Sci-Fi,Free
+39,Tanya Pandey,22,Female,Yes,Yes,No,Laptop,0.5,Sci-Fi,Free
+40,Sahil Joshi,21,Female,Yes,Yes,No,Smart TV,5.0,Action,Free
+41,Aditi Saxena,18,Male,No,No,No,Mobile,1.4,Romance,Paid
+42,Arjun Mehta,25,Female,Yes,No,No,Tablet,3.3,Romance,Paid
+43,Sahil Reddy,23,Female,No,Yes,Yes,Laptop,5.6,Documentary,Paid
+44,Vikram Nair,24,Female,No,Yes,Yes,Tablet,2.4,Comedy,Free
+45,Isha Chopra,24,Female,No,Yes,No,Tablet,4.7,Thriller,Paid
+46,Neha Pandey,24,Female,No,No,Yes,Smart TV,3.2,Documentary,Paid
+47,Arjun Joshi,21,Female,No,No,Yes,Tablet,2.4,Horror,Free
+48,Tanya Thakur,25,Male,Yes,No,Yes,Smart TV,3.8,Documentary,Paid
+49,Arjun Gupta,21,Male,No,Yes,No,Tablet,3.2,Action,Paid
+50,Rahul Bansal,23,Male,Yes,No,Yes,Laptop,5.9,Romance,Free
+51,Ravi Sharma,21,Male,No,Yes,Yes,Smart TV,3.3,Action,Free
+52,Ankit Yadav,22,Male,No,No,Yes,Tablet,3.8,Drama,Paid
+53,Priya Nair,23,Male,Yes,Yes,Yes,Tablet,2.2,Comedy,Free
+54,Megha Rana,20,Female,Yes,Yes,No,Mobile,5.6,Thriller,Free
+55,Rahul Chopra,23,Male,No,Yes,No,Smart TV,3.4,Action,Paid
+56,Pooja Kumar,22,Male,Yes,Yes,Yes,Laptop,1.7,Thriller,Free
+57,Tanya Sharma,25,Male,Yes,Yes,Yes,Smart TV,5.2,Romance,Paid
+58,Rohan Chopra,21,Female,Yes,Yes,No,Laptop,4.5,Sci-Fi,Paid
+59,Karan Mehta,23,Female,No,No,Yes,Mobile,5.2,Documentary,Free
+60,Divya Yadav,21,Male,No,No,No,Smart TV,4.0,Action,Paid
+61,Rohan Singh,20,Male,No,Yes,No,Mobile,1.5,Documentary,Free
+62,Priya Saxena,23,Female,Yes,Yes,No,Laptop,2.1,Drama,Paid
+63,Abhishek Rana,20,Male,No,No,No,Mobile,2.2,Thriller,Paid
+64,Priya Nair,18,Male,Yes,Yes,Yes,Laptop,4.0,Action,Paid
+65,Sneha Patel,20,Male,Yes,No,Yes,Mobile,4.1,Documentary,Free
+66,Aditi Mehta,19,Male,No,Yes,Yes,Laptop,3.4,Thriller,Paid
+67,Aditi Dubey,19,Female,No,Yes,Yes,Tablet,3.3,Comedy,Free
+68,Sahil Mehta,22,Male,No,No,No,Tablet,4.1,Thriller,Paid
+69,Ravi Singh,25,Male,Yes,No,Yes,Tablet,5.2,Comedy,Free
+70,Megha Tiwari,21,Male,Yes,No,Yes,Smart TV,4.1,Documentary,Free
+71,Divya Saxena,20,Male,No,Yes,No,Mobile,1.2,Comedy,Free
+72,Vikram Singh,19,Male,Yes,Yes,No,Tablet,5.1,Documentary,Paid
+73,Abhishek Saxena,22,Male,Yes,Yes,Yes,Mobile,0.8,Romance,Paid
+74,Tanya Yadav,22,Female,No,No,No,Tablet,0.9,Action,Paid
+75,Nikhil Thakur,21,Female,No,Yes,No,Laptop,0.8,Drama,Free
+76,Abhishek Thakur,22,Female,Yes,Yes,Yes,Tablet,5.6,Action,Free
+77,Sneha Reddy,21,Male,Yes,Yes,No,Mobile,5.8,Drama,Free
+78,Priya Thakur,21,Male,Yes,Yes,Yes,Smart TV,2.2,Comedy,Paid
+79,Pooja Kumar,22,Female,No,No,Yes,Smart TV,1.4,Sci-Fi,Paid
+80,Abhishek Bansal,19,Female,Yes,No,Yes,Tablet,3.5,Comedy,Free
+81,Tanya Chopra,18,Female,Yes,Yes,No,Tablet,4.7,Sci-Fi,Free
+82,Vikram Kumar,18,Female,No,Yes,No,Smart TV,4.2,Horror,Free
+83,Megha Reddy,24,Male,Yes,Yes,Yes,Tablet,0.6,Thriller,Free
+84,Rahul Tiwari,22,Male,No,Yes,No,Laptop,4.1,Romance,Paid
+85,Sahil Yadav,25,Male,Yes,No,No,Smart TV,3.5,Comedy,Free
+86,Arjun Nair,20,Female,Yes,Yes,Yes,Laptop,4.5,Drama,Free
+87,Isha Dubey,19,Female,No,No,No,Tablet,4.2,Action,Paid
+88,Vikram Singh,20,Female,Yes,No,No,Laptop,3.2,Horror,Paid
+89,Nikhil Yadav,24,Female,No,Yes,No,Laptop,4.0,Action,Free
+90,Simran Saxena,22,Female,No,Yes,No,Tablet,2.9,Romance,Paid
+91,Sahil Saxena,22,Female,Yes,No,Yes,Mobile,3.5,Thriller,Free
+92,Divya Tiwari,24,Male,No,No,Yes,Mobile,3.5,Sci-Fi,Paid
+93,Arjun Reddy,19,Female,Yes,No,No,Mobile,1.9,Horror,Free
+94,Isha Mehta,18,Male,Yes,No,No,Tablet,3.2,Action,Paid
+95,Karan Patel,23,Female,No,Yes,Yes,Tablet,1.8,Thriller,Paid
+96,Rahul Singh,22,Female,Yes,No,Yes,Laptop,4.3,Romance,Free
+97,Ankit Nair,18,Female,Yes,Yes,No,Tablet,1.4,Action,Paid
+98,Vikram Gupta,25,Female,No,No,No,Mobile,3.9,Comedy,Paid
+99,Ravi Nair,22,Male,No,No,Yes,Mobile,5.0,Horror,Free
+100,Pooja Verma,23,Male,No,No,Yes,Tablet,2.2,Drama,Paid
+101,Sahil Patel,19,Male,No,No,Yes,Laptop,1.6,Horror,Free
+102,Neha Mehta,18,Female,Yes,Yes,Yes,Smart TV,5.3,Drama,Free
+103,Karan Patel,23,Female,Yes,Yes,No,Laptop,5.2,Romance,Free
+104,Aditi Yadav,18,Female,Yes,Yes,Yes,Tablet,5.2,Drama,Paid
+105,Neha Rana,22,Female,No,No,Yes,Laptop,4.5,Comedy,Paid
+106,Megha Singh,22,Female,Yes,Yes,Yes,Smart TV,2.3,Thriller,Free
+107,Divya Tiwari,20,Male,No,No,Yes,Laptop,4.4,Documentary,Free
+108,Priya Kumar,23,Female,No,No,No,Tablet,1.0,Sci-Fi,Free
+109,Sahil Sharma,22,Female,No,No,No,Tablet,3.5,Romance,Free
+110,Rohan Sharma,25,Female,Yes,Yes,No,Tablet,3.3,Comedy,Free
+111,Aditi Pandey,19,Female,No,Yes,Yes,Mobile,3.6,Horror,Free
+112,Arjun Mehta,21,Female,No,Yes,Yes,Smart TV,4.9,Thriller,Free
+113,Isha Saxena,20,Female,No,No,Yes,Mobile,2.2,Horror,Paid
+114,Aditi Agarwal,25,Female,Yes,No,No,Smart TV,2.8,Drama,Paid
+115,Pooja Gupta,18,Male,Yes,No,Yes,Laptop,1.5,Documentary,Free
+116,Pooja Patel,23,Female,No,No,Yes,Mobile,0.8,Horror,Free
+117,Vikram Bansal,21,Male,No,Yes,No,Tablet,3.7,Documentary,Paid
+118,Sahil Saxena,24,Male,No,No,Yes,Mobile,1.3,Horror,Free
+119,Nikhil Joshi,25,Female,No,Yes,No,Mobile,2.2,Romance,Free
+120,Priya Saxena,24,Male,Yes,Yes,No,Laptop,2.4,Thriller,Paid
+121,Divya Verma,18,Male,Yes,No,Yes,Mobile,4.3,Sci-Fi,Free
+122,Tanya Thakur,18,Female,Yes,No,No,Mobile,5.6,Action,Free
+123,Divya Bansal,23,Female,No,No,Yes,Tablet,4.7,Thriller,Free
+124,Aditi Verma,23,Female,Yes,Yes,No,Smart TV,1.0,Horror,Paid
+125,Nikhil Thakur,18,Female,No,No,Yes,Laptop,1.2,Horror,Free
+126,Abhishek Gupta,25,Female,Yes,No,Yes,Smart TV,2.8,Sci-Fi,Free
+127,Ravi Joshi,24,Male,Yes,Yes,No,Tablet,5.4,Drama,Paid
+128,Vikram Tiwari,20,Female,No,Yes,Yes,Smart TV,5.5,Drama,Paid
+129,Rahul Rana,22,Female,Yes,No,No,Mobile,0.8,Romance,Free
+130,Divya Kumar,21,Male,No,Yes,No,Laptop,4.9,Action,Paid
+131,Rahul Dubey,24,Female,Yes,Yes,Yes,Smart TV,4.3,Documentary,Paid
+132,Pooja Verma,22,Female,Yes,No,Yes,Laptop,0.6,Comedy,Free
+133,Sahil Mehta,23,Male,Yes,Yes,No,Smart TV,6.0,Romance,Free
+134,Pooja Chopra,18,Male,Yes,Yes,Yes,Smart TV,1.2,Comedy,Paid
+135,Arjun Agarwal,23,Male,No,Yes,No,Laptop,2.6,Documentary,Free
+136,Rahul Reddy,24,Female,No,No,No,Smart TV,3.1,Sci-Fi,Paid
+137,Karan Kumar,23,Female,Yes,No,Yes,Smart TV,5.6,Sci-Fi,Free
+138,Pooja Verma,19,Female,No,Yes,No,Tablet,4.6,Sci-Fi,Paid
+139,Tanya Dubey,19,Female,No,No,No,Mobile,4.7,Sci-Fi,Free
+140,Aditi Thakur,18,Female,No,No,Yes,Laptop,1.2,Horror,Paid
+141,Rohan Mehta,20,Male,Yes,Yes,Yes,Smart TV,5.1,Horror,Paid
+142,Simran Reddy,25,Female,Yes,No,No,Laptop,2.0,Horror,Free
+143,Neha Tiwari,22,Male,No,Yes,No,Mobile,1.4,Thriller,Paid
+144,Abhishek Singh,20,Male,No,No,Yes,Tablet,5.4,Drama,Paid
+145,Ankit Chopra,21,Male,No,Yes,No,Smart TV,2.7,Comedy,Paid
+146,Rohan Sharma,18,Female,No,Yes,Yes,Smart TV,4.5,Comedy,Free
+147,Sahil Nair,25,Female,No,No,Yes,Smart TV,5.8,Drama,Free
+148,Ravi Verma,20,Female,No,No,No,Mobile,3.0,Horror,Free
+149,Tanya Patel,21,Female,Yes,Yes,Yes,Mobile,5.9,Action,Paid
+150,Divya Gupta,23,Female,Yes,Yes,Yes,Mobile,5.9,Sci-Fi,Paid
+151,Priya Kumar,20,Male,Yes,Yes,Yes,Laptop,2.2,Drama,Free
+152,Vikram Tiwari,25,Female,No,No,No,Tablet,5.2,Romance,Free
+153,Nikhil Bansal,23,Female,Yes,No,Yes,Smart TV,0.7,Horror,Free
+154,Sneha Sharma,20,Male,Yes,No,No,Laptop,0.9,Documentary,Free
+155,Sahil Kumar,25,Male,No,No,No,Smart TV,0.8,Romance,Free
+156,Sahil Tiwari,18,Male,Yes,No,No,Smart TV,3.1,Thriller,Free
+157,Tanya Patel,25,Female,Yes,No,No,Smart TV,2.5,Documentary,Free
+158,Pooja Sharma,25,Male,No,Yes,No,Smart TV,2.9,Documentary,Paid
+159,Tanya Saxena,18,Female,Yes,Yes,No,Smart TV,3.7,Drama,Paid
+160,Divya Bansal,19,Female,No,Yes,No,Tablet,2.1,Thriller,Paid
+161,Sneha Reddy,25,Female,Yes,No,No,Laptop,1.6,Horror,Paid
+162,Arjun Bansal,22,Male,Yes,No,No,Smart TV,5.6,Romance,Paid
+163,Rohan Agarwal,21,Male,Yes,No,No,Mobile,5.4,Documentary,Free
+164,Nikhil Singh,25,Male,Yes,No,Yes,Smart TV,1.7,Comedy,Paid
+165,Nikhil Joshi,21,Female,No,No,Yes,Smart TV,5.6,Drama,Paid
+166,Ankit Patel,22,Female,No,Yes,No,Smart TV,5.3,Romance,Paid
+167,Ankit Tiwari,19,Male,No,Yes,Yes,Tablet,4.1,Action,Paid
+168,Simran Singh,24,Female,No,No,No,Laptop,3.4,Horror,Free
+169,Rahul Mehta,24,Female,No,Yes,No,Tablet,5.4,Comedy,Free
+170,Ravi Saxena,21,Male,Yes,No,Yes,Tablet,5.8,Horror,Free
+171,Neha Thakur,19,Female,Yes,No,No,Smart TV,4.7,Sci-Fi,Free
+172,Rohan Rana,20,Female,No,No,No,Smart TV,2.7,Thriller,Free
+173,Aditi Rana,25,Female,Yes,No,Yes,Smart TV,5.7,Documentary,Paid
+174,Rahul Patel,18,Female,No,No,No,Laptop,4.5,Drama,Paid
+175,Rahul Nair,19,Male,Yes,No,Yes,Laptop,2.4,Sci-Fi,Free
+176,Vikram Dubey,21,Female,Yes,Yes,No,Laptop,2.0,Action,Free
+177,Tanya Reddy,21,Male,Yes,No,Yes,Tablet,5.2,Romance,Free
+178,Neha Yadav,21,Female,Yes,No,Yes,Mobile,0.7,Romance,Paid
+179,Tanya Patel,21,Male,No,No,No,Smart TV,4.7,Drama,Paid
+180,Tanya Gupta,24,Male,Yes,Yes,Yes,Laptop,0.6,Romance,Paid
+181,Pooja Joshi,22,Female,Yes,Yes,Yes,Tablet,1.2,Drama,Free
+182,Abhishek Nair,22,Female,No,Yes,No,Smart TV,2.8,Comedy,Paid
+183,Nikhil Pandey,25,Female,No,No,Yes,Smart TV,3.4,Drama,Free
+184,Priya Joshi,25,Female,Yes,No,Yes,Smart TV,3.5,Documentary,Free
+185,Rahul Sharma,25,Female,Yes,No,No,Tablet,5.7,Comedy,Free
+186,Neha Thakur,23,Male,Yes,Yes,No,Mobile,2.7,Romance,Paid
+187,Pooja Tiwari,20,Male,Yes,No,No,Mobile,4.6,Romance,Free
+188,Ravi Pandey,19,Male,No,Yes,Yes,Laptop,3.1,Action,Free
+189,Abhishek Dubey,22,Male,No,Yes,Yes,Laptop,0.8,Comedy,Free
+190,Tanya Joshi,21,Male,Yes,Yes,Yes,Tablet,3.7,Comedy,Paid
+191,Nikhil Singh,20,Female,No,No,No,Mobile,4.9,Thriller,Free
+192,Pooja Chopra,25,Female,Yes,No,Yes,Mobile,5.4,Comedy,Paid
+193,Sahil Dubey,24,Male,No,Yes,Yes,Tablet,5.8,Documentary,Free
+194,Tanya Gupta,25,Male,No,No,No,Smart TV,4.3,Sci-Fi,Free
+195,Ravi Mehta,20,Male,No,Yes,Yes,Tablet,2.0,Romance,Paid
+196,Pooja Rana,24,Male,No,Yes,No,Mobile,1.0,Comedy,Free
+197,Ankit Mehta,24,Female,No,No,No,Mobile,0.9,Drama,Paid
+198,Megha Tiwari,22,Male,No,No,Yes,Tablet,1.1,Horror,Free
+199,Arjun Reddy,21,Female,Yes,No,No,Tablet,4.1,Horror,Paid
+200,Arjun Dubey,19,Male,Yes,No,Yes,Smart TV,5.2,Romance,Paid
+201,Aditi Nair,23,Male,No,No,Yes,Laptop,0.8,Thriller,Paid
+202,Nikhil Kumar,21,Male,Yes,Yes,No,Mobile,3.2,Comedy,Free
+203,Sneha Nair,21,Female,Yes,No,No,Mobile,2.3,Horror,Paid
+204,Rahul Sharma,19,Male,Yes,No,Yes,Laptop,2.1,Comedy,Paid
+205,Megha Rana,22,Female,Yes,No,Yes,Smart TV,0.9,Action,Free
+206,Ravi Saxena,22,Male,Yes,No,Yes,Laptop,1.9,Horror,Free
+207,Divya Thakur,22,Male,No,No,No,Smart TV,2.8,Drama,Free
+208,Isha Tiwari,21,Female,No,Yes,Yes,Mobile,2.9,Drama,Free
+209,Nikhil Nair,25,Male,No,Yes,No,Tablet,0.8,Horror,Paid
+210,Tanya Yadav,21,Male,Yes,Yes,No,Mobile,3.0,Documentary,Paid
+211,Sahil Gupta,19,Female,No,No,No,Mobile,5.1,Action,Paid
+212,Pooja Saxena,24,Female,Yes,No,No,Mobile,1.1,Thriller,Free
+213,Sahil Singh,23,Female,No,Yes,Yes,Mobile,2.7,Comedy,Free
+214,Tanya Verma,18,Female,Yes,No,Yes,Laptop,3.7,Romance,Free
+215,Vikram Chopra,18,Male,Yes,No,Yes,Laptop,1.1,Documentary,Free
+216,Pooja Thakur,24,Female,Yes,Yes,No,Laptop,2.0,Romance,Free
+217,Ravi Nair,25,Female,No,No,Yes,Smart TV,3.3,Action,Paid
+218,Vikram Verma,22,Male,Yes,Yes,Yes,Laptop,1.8,Documentary,Paid
+219,Priya Reddy,19,Male,No,No,No,Tablet,3.5,Documentary,Paid
+220,Simran Bansal,22,Female,Yes,Yes,Yes,Tablet,1.9,Documentary,Free
+221,Pooja Verma,21,Male,No,Yes,Yes,Laptop,2.4,Romance,Free
+222,Simran Singh,18,Male,Yes,No,No,Tablet,3.4,Thriller,Paid
+223,Sahil Patel,22,Female,No,Yes,Yes,Tablet,4.8,Romance,Paid
+224,Karan Tiwari,20,Male,No,Yes,No,Smart TV,4.6,Romance,Free
+225,Ankit Verma,18,Male,Yes,Yes,Yes,Mobile,3.0,Action,Free
+226,Karan Kumar,22,Male,Yes,No,No,Laptop,0.5,Romance,Paid
+227,Megha Verma,20,Female,No,No,No,Smart TV,4.5,Horror,Free
+228,Karan Yadav,20,Male,Yes,Yes,No,Laptop,4.3,Romance,Paid
+229,Vikram Thakur,23,Male,No,No,Yes,Smart TV,5.3,Comedy,Free
+230,Nikhil Mehta,23,Male,No,No,No,Smart TV,1.0,Romance,Paid
+231,Abhishek Reddy,19,Female,No,Yes,Yes,Tablet,3.6,Action,Paid
+232,Ankit Agarwal,21,Female,Yes,Yes,No,Laptop,2.3,Documentary,Free
+233,Ravi Rana,18,Female,Yes,Yes,No,Mobile,2.2,Action,Paid
+234,Neha Saxena,22,Female,Yes,No,Yes,Laptop,4.8,Romance,Free
+235,Tanya Pandey,24,Male,Yes,Yes,Yes,Tablet,3.8,Thriller,Free
+236,Rohan Verma,21,Male,Yes,No,No,Smart TV,4.5,Documentary,Paid
+237,Rahul Patel,23,Male,Yes,No,No,Mobile,4.0,Comedy,Paid
+238,Divya Agarwal,18,Female,No,Yes,Yes,Smart TV,4.3,Drama,Free
+239,Karan Singh,20,Male,Yes,Yes,Yes,Tablet,2.0,Sci-Fi,Paid
+240,Neha Rana,25,Female,Yes,No,Yes,Tablet,1.3,Sci-Fi,Free
+241,Nikhil Gupta,24,Male,No,Yes,No,Mobile,0.5,Horror,Free
+242,Aditi Pandey,23,Female,No,No,Yes,Tablet,0.9,Horror,Paid
+243,Tanya Rana,22,Male,No,No,Yes,Tablet,2.8,Horror,Free
+244,Arjun Dubey,24,Female,Yes,Yes,Yes,Laptop,3.9,Thriller,Paid
+245,Rohan Mehta,24,Male,Yes,Yes,No,Tablet,1.5,Sci-Fi,Free
+246,Nikhil Sharma,19,Female,Yes,No,No,Tablet,4.7,Horror,Free
+247,Megha Yadav,25,Female,No,No,No,Smart TV,3.1,Thriller,Free
+248,Sneha Reddy,18,Male,No,No,Yes,Laptop,5.9,Action,Free
+249,Sahil Agarwal,18,Female,No,Yes,No,Tablet,1.1,Horror,Free
+250,Arjun Saxena,22,Male,No,Yes,No,Tablet,3.5,Action,Paid
+251,Megha Pandey,23,Male,Yes,Yes,Yes,Mobile,2.7,Sci-Fi,Free
+252,Ankit Chopra,20,Female,Yes,No,Yes,Tablet,1.1,Action,Free
+253,Vikram Verma,19,Female,No,No,No,Smart TV,2.8,Drama,Paid
+254,Karan Gupta,19,Female,No,No,No,Laptop,3.4,Documentary,Free
+255,Arjun Chopra,21,Female,Yes,Yes,No,Mobile,3.4,Drama,Free
+256,Neha Sharma,25,Male,Yes,Yes,Yes,Mobile,5.7,Action,Paid
+257,Pooja Pandey,22,Male,No,Yes,Yes,Laptop,2.3,Sci-Fi,Paid
+258,Neha Joshi,21,Male,Yes,Yes,No,Tablet,2.7,Sci-Fi,Paid
+259,Rohan Joshi,22,Female,Yes,Yes,No,Laptop,1.5,Drama,Free
+260,Neha Kumar,18,Male,Yes,Yes,No,Mobile,4.5,Thriller,Paid
+261,Simran Mehta,24,Female,Yes,No,No,Laptop,3.8,Documentary,Free
+262,Isha Yadav,23,Male,Yes,No,Yes,Mobile,0.8,Thriller,Free
+263,Aditi Rana,22,Male,Yes,No,No,Smart TV,1.9,Drama,Free
+264,Simran Bansal,24,Male,Yes,Yes,Yes,Tablet,2.4,Documentary,Paid
+265,Nikhil Verma,22,Male,No,No,No,Smart TV,3.0,Action,Free
+266,Vikram Agarwal,20,Male,Yes,Yes,Yes,Laptop,3.5,Comedy,Free
+267,Ankit Joshi,23,Female,Yes,No,No,Smart TV,4.0,Comedy,Paid
+268,Pooja Rana,19,Female,Yes,Yes,Yes,Laptop,5.1,Thriller,Free
+269,Pooja Mehta,18,Male,Yes,Yes,No,Smart TV,3.4,Horror,Free
+270,Karan Reddy,18,Female,No,Yes,No,Laptop,3.7,Thriller,Paid
+271,Arjun Mehta,19,Male,No,No,Yes,Smart TV,2.6,Comedy,Paid
+272,Isha Tiwari,18,Female,Yes,Yes,Yes,Mobile,3.6,Action,Paid
+273,Rohan Reddy,24,Male,Yes,No,Yes,Tablet,3.7,Comedy,Paid
+274,Ravi Mehta,19,Female,Yes,No,No,Smart TV,5.8,Sci-Fi,Paid
+275,Simran Sharma,18,Male,No,Yes,No,Tablet,2.7,Drama,Paid
+276,Simran Sharma,20,Female,No,No,Yes,Smart TV,3.3,Horror,Free
+277,Rohan Dubey,22,Female,Yes,No,No,Smart TV,2.1,Romance,Free
+278,Nikhil Sharma,21,Female,Yes,No,Yes,Mobile,4.2,Action,Paid
+279,Karan Yadav,19,Male,Yes,Yes,No,Smart TV,1.2,Horror,Free
+280,Megha Rana,19,Male,No,Yes,No,Smart TV,5.1,Sci-Fi,Paid
+281,Sahil Dubey,22,Male,No,No,No,Smart TV,1.9,Horror,Paid
+282,Megha Reddy,18,Male,No,No,Yes,Tablet,4.3,Horror,Paid
+283,Ankit Kumar,23,Male,No,Yes,No,Laptop,5.7,Drama,Paid
+284,Isha Dubey,18,Male,No,No,Yes,Laptop,4.0,Drama,Free
+285,Ravi Rana,25,Female,No,Yes,Yes,Mobile,2.2,Action,Free
+286,Megha Yadav,22,Male,No,No,Yes,Laptop,4.4,Documentary,Paid
+287,Rohan Pandey,20,Male,Yes,Yes,No,Mobile,1.2,Action,Free
+288,Rahul Yadav,23,Female,Yes,Yes,No,Smart TV,2.7,Horror,Free
+289,Simran Dubey,25,Male,Yes,Yes,No,Mobile,0.6,Thriller,Paid
+290,Sahil Pandey,24,Male,Yes,Yes,No,Tablet,1.1,Sci-Fi,Free
+291,Vikram Mehta,23,Male,Yes,No,Yes,Mobile,3.9,Action,Paid
+292,Rahul Nair,20,Female,Yes,Yes,Yes,Mobile,1.3,Horror,Paid
+293,Megha Rana,21,Male,No,Yes,Yes,Laptop,4.3,Drama,Free
+294,Isha Agarwal,18,Male,No,Yes,Yes,Smart TV,1.7,Horror,Free
+295,Priya Pandey,22,Female,No,Yes,Yes,Smart TV,1.0,Romance,Paid
+296,Ankit Chopra,18,Female,Yes,Yes,Yes,Tablet,3.5,Drama,Free
+297,Arjun Tiwari,18,Male,Yes,Yes,Yes,Laptop,3.0,Comedy,Paid
+298,Nikhil Tiwari,20,Male,Yes,Yes,Yes,Laptop,1.2,Thriller,Paid
+299,Megha Nair,21,Male,No,No,No,Smart TV,5.1,Documentary,Free
+300,Tanya Rana,20,Female,Yes,No,Yes,Laptop,5.4,Romance,Paid
+301,Sahil Rana,24,Female,No,Yes,No,Mobile,2.8,Romance,Free
+302,Abhishek Verma,25,Female,Yes,Yes,Yes,Mobile,0.8,Documentary,Free
+303,Ravi Kumar,24,Male,No,Yes,No,Laptop,4.6,Sci-Fi,Paid
+304,Sahil Patel,23,Male,No,Yes,No,Tablet,2.7,Thriller,Free
+305,Karan Pandey,18,Male,No,No,Yes,Tablet,4.1,Action,Paid
+306,Abhishek Agarwal,24,Female,No,Yes,No,Mobile,0.6,Drama,Free
+307,Isha Bansal,24,Female,No,No,No,Mobile,5.1,Documentary,Free
+308,Karan Tiwari,20,Female,No,Yes,No,Laptop,0.9,Comedy,Free
+309,Ravi Agarwal,21,Female,Yes,No,No,Laptop,4.2,Sci-Fi,Paid
+310,Tanya Tiwari,21,Male,No,Yes,Yes,Smart TV,2.4,Thriller,Paid
+311,Ravi Singh,22,Female,Yes,Yes,Yes,Tablet,6.0,Horror,Paid
+312,Divya Agarwal,19,Female,No,Yes,Yes,Laptop,2.4,Drama,Paid
+313,Rahul Gupta,20,Male,No,Yes,Yes,Smart TV,3.3,Sci-Fi,Free
+314,Divya Singh,24,Male,No,Yes,No,Laptop,5.1,Drama,Paid
+315,Arjun Nair,23,Male,Yes,Yes,No,Laptop,2.7,Romance,Free
+316,Arjun Dubey,21,Female,Yes,No,Yes,Mobile,2.8,Romance,Free
+317,Divya Sharma,20,Male,Yes,Yes,No,Laptop,2.2,Sci-Fi,Paid
+318,Abhishek Joshi,22,Female,No,Yes,Yes,Smart TV,3.6,Horror,Paid
+319,Priya Kumar,25,Female,Yes,Yes,No,Tablet,3.1,Drama,Paid
+320,Arjun Singh,21,Female,No,Yes,No,Laptop,2.1,Documentary,Paid
+321,Karan Patel,25,Male,Yes,No,Yes,Tablet,5.1,Action,Free
+322,Rahul Verma,20,Male,Yes,No,Yes,Tablet,5.7,Comedy,Paid
+323,Sneha Thakur,18,Female,No,Yes,Yes,Tablet,2.6,Romance,Free
+324,Abhishek Gupta,20,Male,No,Yes,Yes,Mobile,1.0,Romance,Paid
+325,Arjun Reddy,20,Female,No,Yes,No,Mobile,2.3,Comedy,Free
+326,Karan Patel,21,Female,No,No,Yes,Laptop,1.8,Sci-Fi,Free
+327,Nikhil Kumar,19,Female,No,Yes,Yes,Laptop,0.7,Thriller,Free
+328,Rohan Chopra,25,Female,No,Yes,Yes,Mobile,0.7,Horror,Free
+329,Aditi Singh,18,Female,Yes,No,No,Laptop,4.7,Action,Paid
+330,Tanya Kumar,20,Female,Yes,No,Yes,Tablet,5.7,Romance,Free
+331,Divya Dubey,22,Male,No,No,No,Smart TV,1.1,Horror,Free
+332,Rohan Rana,23,Female,Yes,No,No,Smart TV,3.8,Thriller,Paid
+333,Abhishek Pandey,21,Female,Yes,No,Yes,Mobile,5.2,Sci-Fi,Free
+334,Abhishek Kumar,18,Male,No,No,Yes,Tablet,1.5,Sci-Fi,Free
+335,Priya Rana,24,Female,Yes,No,No,Laptop,1.7,Horror,Paid
+336,Priya Thakur,19,Male,No,No,Yes,Smart TV,1.5,Horror,Paid
+337,Rohan Kumar,22,Male,Yes,No,No,Laptop,6.0,Sci-Fi,Free
+338,Rohan Verma,22,Male,Yes,Yes,Yes,Mobile,2.5,Romance,Free
+339,Neha Reddy,25,Female,No,Yes,No,Laptop,3.9,Comedy,Free
+340,Isha Gupta,20,Male,Yes,No,No,Tablet,2.3,Horror,Free
+341,Tanya Gupta,22,Female,No,Yes,Yes,Smart TV,4.3,Comedy,Free
+342,Sahil Bansal,20,Female,No,No,Yes,Laptop,5.6,Horror,Paid
+343,Divya Patel,19,Female,No,No,No,Mobile,3.5,Drama,Free
+344,Arjun Agarwal,22,Female,Yes,No,No,Laptop,5.3,Thriller,Free
+345,Karan Pandey,25,Male,Yes,Yes,No,Smart TV,5.3,Action,Free
+346,Divya Dubey,23,Male,Yes,Yes,Yes,Laptop,5.6,Sci-Fi,Free
+347,Pooja Joshi,20,Female,No,No,No,Mobile,6.0,Action,Free
+348,Isha Pandey,24,Male,No,No,Yes,Tablet,3.0,Documentary,Paid
+349,Rahul Kumar,18,Male,No,No,No,Tablet,4.0,Action,Paid
+350,Pooja Gupta,20,Female,No,No,No,Smart TV,5.3,Comedy,Free
+351,Sahil Joshi,23,Male,Yes,No,Yes,Smart TV,3.9,Drama,Paid
+352,Aditi Chopra,23,Female,No,No,No,Tablet,4.5,Romance,Free
+353,Megha Reddy,19,Male,No,No,No,Mobile,5.6,Thriller,Free
+354,Simran Agarwal,19,Male,Yes,No,Yes,Smart TV,5.6,Romance,Paid
+355,Ravi Mehta,19,Male,No,Yes,Yes,Tablet,4.2,Sci-Fi,Free
+356,Simran Bansal,18,Female,Yes,No,No,Mobile,0.7,Documentary,Free
+357,Pooja Chopra,18,Female,No,No,No,Laptop,4.8,Romance,Free
+358,Tanya Yadav,24,Female,Yes,No,No,Mobile,4.7,Comedy,Free
+359,Sneha Chopra,23,Female,No,No,Yes,Laptop,1.9,Drama,Paid
+360,Sneha Sharma,20,Male,No,No,Yes,Laptop,5.1,Documentary,Paid
+361,Megha Mehta,24,Male,Yes,No,Yes,Smart TV,4.5,Horror,Paid
+362,Rahul Kumar,24,Male,No,No,No,Laptop,3.9,Drama,Free
+363,Priya Yadav,20,Male,No,Yes,Yes,Tablet,1.9,Thriller,Paid
+364,Sahil Joshi,18,Female,No,Yes,No,Mobile,0.9,Action,Free
+365,Pooja Reddy,24,Female,Yes,Yes,Yes,Mobile,4.0,Thriller,Paid
+366,Megha Mehta,22,Female,No,Yes,No,Laptop,4.2,Romance,Paid
+367,Divya Agarwal,20,Female,No,Yes,No,Mobile,0.5,Sci-Fi,Paid
+368,Vikram Kumar,25,Female,Yes,No,Yes,Smart TV,1.7,Romance,Free
+369,Karan Tiwari,21,Male,Yes,No,No,Tablet,3.2,Horror,Free
+370,Pooja Gupta,24,Male,Yes,No,Yes,Tablet,0.6,Sci-Fi,Free
+371,Isha Nair,19,Male,No,Yes,Yes,Tablet,3.2,Comedy,Free
+372,Rohan Mehta,21,Female,Yes,No,Yes,Smart TV,5.1,Thriller,Free
+373,Tanya Bansal,23,Male,Yes,Yes,No,Laptop,4.3,Romance,Free
+374,Neha Singh,24,Male,Yes,No,Yes,Smart TV,2.3,Documentary,Paid
+375,Priya Reddy,25,Female,No,No,No,Laptop,5.1,Romance,Free
+376,Ankit Tiwari,22,Female,Yes,No,No,Mobile,3.1,Documentary,Paid
+377,Priya Pandey,24,Male,Yes,No,Yes,Tablet,2.1,Comedy,Free
+378,Aditi Sharma,20,Male,No,No,No,Laptop,2.5,Drama,Paid
+379,Isha Reddy,22,Male,Yes,Yes,Yes,Tablet,1.9,Romance,Free
+380,Abhishek Joshi,23,Male,Yes,No,No,Laptop,0.9,Romance,Free
+381,Neha Bansal,22,Male,Yes,Yes,No,Laptop,1.5,Horror,Free
+382,Vikram Agarwal,20,Female,No,No,No,Smart TV,4.0,Horror,Paid
+383,Isha Gupta,20,Male,Yes,Yes,No,Tablet,0.9,Drama,Paid
+384,Abhishek Yadav,23,Male,No,No,Yes,Tablet,5.6,Thriller,Free
+385,Tanya Patel,19,Male,No,Yes,No,Mobile,0.8,Thriller,Paid
+386,Divya Nair,22,Male,No,No,Yes,Mobile,1.3,Drama,Free
+387,Nikhil Joshi,25,Male,No,No,Yes,Mobile,0.8,Action,Free
+388,Rohan Gupta,23,Male,No,Yes,No,Mobile,4.1,Thriller,Free
+389,Abhishek Verma,22,Female,No,Yes,No,Laptop,5.8,Horror,Paid
+390,Aditi Dubey,25,Male,Yes,No,Yes,Mobile,4.6,Action,Free
+391,Vikram Sharma,18,Male,No,Yes,No,Smart TV,1.6,Documentary,Paid
+392,Pooja Yadav,23,Female,Yes,No,Yes,Laptop,4.9,Comedy,Paid
+393,Sneha Kumar,24,Female,Yes,Yes,No,Smart TV,4.3,Horror,Paid
+394,Sneha Sharma,20,Female,Yes,Yes,Yes,Laptop,3.0,Thriller,Paid
+395,Priya Bansal,23,Female,Yes,No,Yes,Tablet,2.2,Action,Paid
+396,Ravi Reddy,21,Female,No,Yes,No,Smart TV,0.8,Sci-Fi,Paid
+397,Aditi Chopra,22,Male,No,Yes,No,Smart TV,2.8,Action,Paid
+398,Divya Nair,19,Female,Yes,No,No,Mobile,3.2,Sci-Fi,Free
+399,Priya Gupta,20,Male,No,Yes,Yes,Smart TV,4.3,Horror,Free
+400,Tanya Patel,22,Female,No,Yes,Yes,Mobile,3.4,Thriller,Free
+401,Vikram Agarwal,22,Male,Yes,Yes,Yes,Tablet,1.5,Documentary,Paid
+402,Sneha Dubey,22,Female,Yes,No,Yes,Smart TV,1.1,Romance,Paid
+403,Nikhil Agarwal,18,Female,Yes,No,Yes,Tablet,4.9,Sci-Fi,Free
+404,Rahul Tiwari,18,Female,Yes,No,No,Mobile,2.3,Drama,Free
+405,Karan Dubey,21,Female,No,Yes,Yes,Tablet,1.3,Sci-Fi,Paid
+406,Pooja Bansal,19,Female,Yes,Yes,No,Tablet,2.2,Sci-Fi,Free
+407,Megha Kumar,25,Male,No,Yes,Yes,Mobile,1.7,Comedy,Paid
+408,Isha Yadav,22,Female,Yes,Yes,No,Laptop,4.4,Thriller,Free
+409,Sneha Singh,19,Male,Yes,No,Yes,Tablet,4.3,Comedy,Paid
+410,Divya Mehta,24,Male,Yes,Yes,Yes,Smart TV,5.1,Comedy,Free
+411,Ravi Yadav,21,Female,Yes,Yes,Yes,Smart TV,1.3,Comedy,Free
+412,Priya Joshi,19,Male,Yes,No,No,Laptop,1.7,Sci-Fi,Paid
+413,Vikram Thakur,18,Female,Yes,Yes,No,Mobile,2.2,Drama,Paid
+414,Simran Chopra,22,Male,Yes,No,Yes,Smart TV,3.1,Documentary,Free
+415,Rohan Sharma,25,Female,Yes,No,Yes,Mobile,4.8,Action,Paid
+416,Sahil Verma,22,Female,Yes,Yes,No,Smart TV,3.8,Thriller,Paid
+417,Karan Singh,18,Female,Yes,No,Yes,Smart TV,3.9,Action,Paid
+418,Sneha Bansal,23,Male,Yes,Yes,No,Smart TV,1.8,Action,Free
+419,Pooja Mehta,23,Male,Yes,Yes,Yes,Laptop,3.4,Horror,Paid
+420,Aditi Rana,21,Female,Yes,Yes,Yes,Smart TV,0.6,Thriller,Paid
+421,Rohan Saxena,24,Female,No,No,Yes,Laptop,2.4,Documentary,Free
+422,Nikhil Joshi,19,Female,No,Yes,Yes,Tablet,3.1,Romance,Paid
+423,Rohan Reddy,18,Female,Yes,No,Yes,Tablet,5.4,Action,Paid
+424,Sahil Patel,18,Male,Yes,No,Yes,Smart TV,4.7,Drama,Paid
+425,Priya Pandey,20,Female,Yes,Yes,Yes,Laptop,5.3,Sci-Fi,Free
+426,Megha Thakur,18,Female,No,Yes,No,Tablet,0.9,Horror,Free
+427,Rahul Dubey,19,Male,Yes,No,No,Smart TV,4.7,Sci-Fi,Paid
+428,Sneha Bansal,25,Female,No,No,No,Tablet,2.9,Romance,Free
+429,Ravi Tiwari,25,Male,Yes,Yes,Yes,Mobile,4.7,Sci-Fi,Paid
+430,Isha Agarwal,23,Female,Yes,No,No,Mobile,4.1,Romance,Free
+431,Megha Rana,24,Male,Yes,No,No,Smart TV,1.3,Drama,Paid
+432,Tanya Tiwari,25,Female,Yes,No,No,Mobile,2.1,Drama,Paid
+433,Sahil Saxena,22,Male,No,No,Yes,Smart TV,2.4,Comedy,Free
+434,Vikram Thakur,19,Female,Yes,No,Yes,Mobile,3.5,Romance,Free
+435,Ankit Dubey,25,Female,Yes,No,Yes,Mobile,0.6,Action,Paid
+436,Vikram Dubey,18,Female,No,Yes,No,Mobile,2.9,Comedy,Free
+437,Simran Yadav,19,Male,Yes,Yes,Yes,Smart TV,2.1,Documentary,Paid
+438,Pooja Kumar,23,Female,No,Yes,Yes,Mobile,1.8,Horror,Free
+439,Priya Pandey,19,Female,Yes,Yes,No,Tablet,5.9,Thriller,Free
+440,Neha Chopra,23,Male,Yes,Yes,No,Tablet,4.5,Sci-Fi,Free
+441,Isha Chopra,23,Male,No,No,Yes,Smart TV,3.6,Thriller,Paid
+442,Vikram Yadav,25,Male,Yes,Yes,No,Mobile,5.2,Comedy,Free
+443,Simran Saxena,20,Male,Yes,No,Yes,Mobile,2.6,Sci-Fi,Paid
+444,Pooja Saxena,25,Female,Yes,No,No,Smart TV,1.7,Thriller,Paid
+445,Rahul Agarwal,23,Male,Yes,No,No,Smart TV,5.3,Drama,Paid
+446,Vikram Yadav,20,Female,No,No,Yes,Laptop,1.8,Documentary,Paid
+447,Ravi Pandey,18,Male,No,No,Yes,Tablet,2.4,Thriller,Free
+448,Sneha Reddy,25,Female,No,Yes,No,Laptop,4.4,Comedy,Paid
+449,Simran Yadav,23,Female,Yes,No,Yes,Smart TV,5.2,Drama,Paid
+450,Priya Tiwari,25,Male,No,No,Yes,Mobile,5.3,Documentary,Paid
+451,Karan Gupta,20,Male,No,Yes,Yes,Laptop,2.5,Romance,Free
+452,Ankit Agarwal,25,Male,Yes,No,Yes,Tablet,1.8,Comedy,Free
+453,Neha Nair,19,Female,No,Yes,Yes,Laptop,5.7,Horror,Free
+454,Pooja Thakur,25,Male,Yes,Yes,Yes,Smart TV,4.4,Horror,Free
+455,Simran Rana,24,Male,Yes,No,Yes,Tablet,4.5,Romance,Free
+456,Tanya Verma,18,Male,No,No,Yes,Mobile,4.2,Documentary,Paid
+457,Ravi Chopra,22,Female,No,Yes,Yes,Tablet,4.6,Documentary,Free
+458,Aditi Agarwal,18,Male,No,No,Yes,Tablet,4.4,Romance,Free
+459,Sneha Verma,21,Female,Yes,No,Yes,Mobile,3.3,Action,Free
+460,Abhishek Reddy,21,Female,Yes,Yes,No,Laptop,3.6,Horror,Free
+461,Neha Sharma,20,Female,Yes,No,Yes,Laptop,0.7,Sci-Fi,Paid
+462,Vikram Gupta,23,Female,No,No,Yes,Mobile,2.8,Action,Free
+463,Ravi Nair,22,Female,No,Yes,Yes,Tablet,1.4,Romance,Free
+464,Karan Dubey,24,Female,Yes,Yes,No,Mobile,4.4,Documentary,Free
+465,Aditi Nair,19,Female,Yes,No,No,Laptop,3.6,Drama,Paid
+466,Tanya Agarwal,23,Female,No,No,No,Smart TV,1.8,Documentary,Paid
+467,Tanya Dubey,24,Male,No,Yes,No,Laptop,5.7,Romance,Free
+468,Arjun Tiwari,21,Male,Yes,Yes,Yes,Smart TV,4.3,Action,Free
+469,Aditi Mehta,20,Female,No,Yes,No,Laptop,4.8,Drama,Free
+470,Aditi Rana,21,Female,Yes,Yes,Yes,Smart TV,5.5,Sci-Fi,Paid
+471,Divya Bansal,18,Male,No,No,No,Laptop,3.0,Romance,Free
+472,Sahil Rana,23,Female,No,Yes,No,Mobile,4.1,Documentary,Free
+473,Nikhil Gupta,19,Male,Yes,Yes,No,Laptop,0.6,Thriller,Free
+474,Priya Yadav,22,Male,Yes,No,No,Smart TV,5.6,Action,Free
+475,Ankit Dubey,18,Female,Yes,Yes,Yes,Smart TV,4.2,Comedy,Free
+476,Pooja Sharma,23,Male,Yes,No,Yes,Laptop,0.7,Action,Paid
+477,Ravi Tiwari,24,Female,Yes,No,Yes,Smart TV,3.2,Action,Paid
+478,Priya Verma,18,Female,No,No,No,Mobile,5.3,Romance,Paid
+479,Divya Pandey,18,Male,Yes,No,Yes,Smart TV,5.0,Thriller,Paid
+480,Tanya Sharma,24,Male,Yes,No,No,Laptop,4.8,Horror,Paid
+481,Isha Mehta,25,Female,Yes,Yes,Yes,Smart TV,5.7,Drama,Paid
+482,Ravi Sharma,20,Female,No,No,Yes,Tablet,1.5,Action,Free
+483,Priya Saxena,19,Male,No,No,No,Laptop,0.9,Romance,Free
+484,Divya Dubey,21,Male,Yes,No,No,Mobile,1.4,Romance,Free
+485,Rohan Singh,19,Female,Yes,No,No,Smart TV,2.3,Romance,Free
+486,Tanya Reddy,25,Female,No,No,No,Mobile,0.6,Romance,Paid
+487,Rohan Pandey,25,Female,Yes,Yes,Yes,Smart TV,5.4,Horror,Paid
+488,Sahil Mehta,18,Female,No,Yes,No,Tablet,1.0,Horror,Free
+489,Arjun Singh,25,Male,Yes,No,Yes,Mobile,3.9,Drama,Paid
+490,Vikram Agarwal,21,Male,No,Yes,Yes,Mobile,3.5,Sci-Fi,Paid
+491,Divya Singh,18,Female,Yes,No,No,Laptop,0.6,Sci-Fi,Paid
+492,Neha Sharma,23,Male,No,No,Yes,Smart TV,4.3,Drama,Free
+493,Tanya Chopra,19,Male,Yes,No,Yes,Tablet,2.5,Thriller,Paid
+494,Abhishek Agarwal,25,Male,No,No,Yes,Laptop,0.8,Documentary,Paid
+495,Sahil Sharma,24,Female,Yes,No,Yes,Laptop,0.6,Romance,Free
+496,Pooja Thakur,20,Male,Yes,No,No,Tablet,1.9,Horror,Paid
+497,Divya Tiwari,24,Female,No,No,Yes,Tablet,1.0,Comedy,Free
+498,Megha Yadav,24,Female,No,Yes,No,Mobile,1.2,Horror,Paid
+499,Rahul Bansal,23,Male,Yes,Yes,Yes,Tablet,3.2,Horror,Paid
+500,Ravi Singh,25,Female,No,Yes,No,Tablet,6.0,Comedy,Paid
+501,Vikram Chopra,18,Female,Yes,Yes,No,Mobile,5.0,Romance,Free
+502,Rahul Dubey,21,Male,No,No,No,Mobile,0.5,Comedy,Free
+503,Aditi Agarwal,20,Male,No,No,Yes,Smart TV,2.0,Comedy,Paid
+504,Aditi Agarwal,18,Male,No,No,No,Smart TV,0.6,Drama,Free
+505,Karan Yadav,20,Female,No,No,No,Laptop,4.0,Romance,Paid
+506,Isha Chopra,20,Male,Yes,Yes,Yes,Smart TV,1.0,Comedy,Paid
+507,Priya Yadav,18,Female,Yes,No,Yes,Mobile,5.1,Romance,Free
+508,Rohan Singh,24,Male,Yes,No,No,Smart TV,4.9,Thriller,Paid
+509,Sneha Patel,22,Male,Yes,Yes,Yes,Laptop,2.3,Action,Paid
+510,Sahil Chopra,23,Male,No,Yes,No,Mobile,5.8,Action,Free
+511,Aditi Mehta,22,Female,No,Yes,Yes,Mobile,2.4,Documentary,Paid
+512,Divya Agarwal,18,Female,No,Yes,Yes,Smart TV,0.7,Sci-Fi,Paid
+513,Priya Nair,24,Male,No,No,Yes,Tablet,5.4,Comedy,Paid
+514,Karan Agarwal,22,Male,No,No,No,Mobile,0.7,Horror,Paid
+515,Abhishek Thakur,19,Female,No,Yes,No,Smart TV,3.4,Thriller,Paid
+516,Abhishek Verma,19,Male,No,Yes,No,Mobile,1.2,Sci-Fi,Free
+517,Ravi Tiwari,20,Female,Yes,Yes,Yes,Laptop,2.3,Romance,Paid
+518,Nikhil Bansal,22,Male,No,No,No,Laptop,2.5,Thriller,Paid
+519,Sahil Saxena,23,Female,Yes,No,No,Tablet,1.0,Documentary,Free
+520,Vikram Agarwal,19,Male,Yes,Yes,No,Tablet,5.6,Documentary,Free
+521,Ankit Dubey,22,Male,No,Yes,No,Laptop,4.3,Documentary,Paid
+522,Karan Mehta,24,Male,No,No,Yes,Mobile,3.4,Comedy,Paid
+523,Simran Kumar,20,Male,Yes,No,Yes,Mobile,0.5,Documentary,Paid
+524,Rahul Rana,18,Male,Yes,No,Yes,Mobile,3.5,Romance,Free
+525,Ankit Bansal,21,Female,No,No,No,Laptop,2.8,Sci-Fi,Paid
+526,Karan Mehta,24,Male,No,No,No,Smart TV,5.0,Documentary,Paid
+527,Priya Patel,19,Female,Yes,No,No,Mobile,1.7,Documentary,Free
+528,Nikhil Saxena,21,Male,No,No,No,Tablet,2.3,Romance,Paid
+529,Simran Singh,24,Female,Yes,No,Yes,Mobile,5.8,Documentary,Paid
+530,Aditi Joshi,21,Female,Yes,Yes,No,Mobile,3.0,Romance,Paid
+531,Priya Yadav,22,Male,Yes,Yes,Yes,Tablet,3.8,Action,Free
+532,Aditi Rana,18,Female,No,Yes,Yes,Smart TV,2.4,Action,Free
+533,Simran Singh,20,Female,No,Yes,No,Tablet,4.9,Sci-Fi,Paid
+534,Vikram Agarwal,25,Male,No,No,Yes,Laptop,2.6,Thriller,Paid
+535,Pooja Singh,24,Male,No,Yes,Yes,Mobile,3.9,Action,Free
+536,Isha Verma,22,Female,Yes,Yes,No,Tablet,2.8,Thriller,Paid
+537,Sahil Reddy,21,Male,No,Yes,Yes,Mobile,1.2,Romance,Paid
+538,Nikhil Dubey,19,Female,No,No,Yes,Smart TV,1.3,Comedy,Free
+539,Nikhil Thakur,21,Female,Yes,Yes,Yes,Mobile,4.5,Drama,Paid
+540,Arjun Dubey,19,Female,No,No,No,Smart TV,4.6,Sci-Fi,Paid
+541,Nikhil Rana,19,Female,Yes,Yes,No,Mobile,5.6,Drama,Paid
+542,Tanya Joshi,21,Female,No,Yes,No,Laptop,2.7,Thriller,Paid
+543,Sneha Gupta,20,Female,No,No,Yes,Tablet,3.3,Romance,Paid
+544,Abhishek Yadav,23,Male,No,Yes,Yes,Smart TV,4.8,Drama,Free
+545,Simran Pandey,22,Male,Yes,Yes,No,Smart TV,0.7,Documentary,Free
+546,Nikhil Thakur,22,Male,No,Yes,No,Mobile,3.8,Romance,Paid
+547,Abhishek Reddy,19,Female,No,No,Yes,Smart TV,4.8,Horror,Paid
+548,Sahil Gupta,18,Male,No,Yes,No,Mobile,5.4,Romance,Free
+549,Aditi Nair,25,Male,No,No,Yes,Tablet,4.2,Romance,Paid
+550,Rohan Thakur,25,Male,Yes,Yes,Yes,Smart TV,4.5,Thriller,Paid
+551,Divya Patel,20,Male,No,No,No,Mobile,4.2,Romance,Paid
+552,Abhishek Tiwari,25,Male,Yes,No,Yes,Laptop,4.4,Thriller,Paid
+553,Karan Bansal,23,Female,No,No,No,Smart TV,5.0,Romance,Free
+554,Divya Yadav,18,Male,Yes,No,Yes,Laptop,3.2,Comedy,Free
+555,Aditi Dubey,19,Male,No,Yes,Yes,Tablet,0.6,Comedy,Paid
+556,Ankit Nair,21,Male,Yes,No,Yes,Laptop,2.8,Romance,Free
+557,Divya Gupta,19,Female,No,No,No,Mobile,1.3,Horror,Free
+558,Ravi Reddy,21,Male,No,No,Yes,Tablet,3.9,Horror,Paid
+559,Isha Chopra,19,Male,Yes,Yes,No,Tablet,4.1,Comedy,Paid
+560,Abhishek Dubey,22,Male,Yes,Yes,No,Tablet,5.0,Romance,Free
+561,Karan Tiwari,20,Female,No,No,Yes,Smart TV,3.2,Sci-Fi,Paid
+562,Ravi Yadav,24,Male,No,Yes,Yes,Smart TV,2.8,Romance,Free
+563,Pooja Sharma,18,Male,No,Yes,No,Smart TV,3.5,Comedy,Paid
+564,Karan Tiwari,25,Male,No,No,No,Laptop,3.0,Drama,Paid
+565,Simran Thakur,21,Female,No,No,Yes,Smart TV,0.8,Sci-Fi,Paid
+566,Ravi Kumar,22,Male,Yes,No,No,Mobile,5.8,Comedy,Free
+567,Ankit Singh,18,Female,Yes,Yes,Yes,Laptop,0.8,Thriller,Free
+568,Simran Patel,23,Male,Yes,No,No,Mobile,5.8,Sci-Fi,Free
+569,Aditi Tiwari,25,Female,Yes,Yes,Yes,Tablet,2.5,Comedy,Free
+570,Divya Kumar,21,Male,Yes,No,Yes,Tablet,1.0,Romance,Paid
+571,Tanya Joshi,24,Male,No,Yes,No,Tablet,2.4,Romance,Paid
+572,Rohan Thakur,18,Male,Yes,Yes,Yes,Mobile,1.1,Comedy,Paid
+573,Pooja Patel,24,Female,No,Yes,No,Tablet,2.7,Documentary,Paid
+574,Neha Gupta,18,Male,Yes,No,Yes,Tablet,4.4,Documentary,Paid
+575,Ravi Gupta,21,Female,No,Yes,No,Smart TV,2.9,Thriller,Paid
+576,Megha Pandey,23,Female,Yes,No,Yes,Smart TV,3.3,Romance,Free
+577,Neha Tiwari,23,Male,No,Yes,Yes,Tablet,2.0,Action,Free
+578,Abhishek Sharma,25,Female,Yes,Yes,No,Laptop,2.1,Horror,Paid
+579,Sahil Gupta,19,Female,Yes,No,Yes,Mobile,5.4,Documentary,Free
+580,Priya Saxena,19,Female,Yes,No,No,Tablet,6.0,Action,Free
+581,Priya Agarwal,19,Female,No,No,No,Smart TV,2.9,Documentary,Free
+582,Isha Agarwal,19,Male,Yes,No,No,Smart TV,1.2,Comedy,Paid
+583,Simran Yadav,21,Male,Yes,Yes,Yes,Laptop,1.0,Action,Free
+584,Nikhil Agarwal,22,Male,No,Yes,No,Mobile,5.2,Thriller,Free
+585,Vikram Tiwari,24,Female,Yes,Yes,No,Tablet,5.8,Sci-Fi,Paid
+586,Pooja Saxena,18,Male,Yes,No,Yes,Tablet,0.9,Drama,Paid
+587,Ravi Chopra,19,Female,No,Yes,Yes,Smart TV,0.9,Documentary,Free
+588,Aditi Chopra,23,Female,Yes,Yes,Yes,Laptop,2.7,Sci-Fi,Paid
+589,Abhishek Patel,25,Male,Yes,No,Yes,Tablet,5.4,Thriller,Free
+590,Abhishek Dubey,23,Female,Yes,No,No,Smart TV,5.5,Sci-Fi,Free
+591,Sahil Joshi,18,Male,Yes,No,Yes,Mobile,1.8,Action,Free
+592,Karan Yadav,23,Male,No,No,No,Laptop,5.0,Horror,Free
+593,Priya Patel,20,Male,Yes,No,No,Smart TV,2.5,Horror,Free
+594,Sneha Dubey,25,Male,No,Yes,No,Laptop,2.0,Thriller,Paid
+595,Vikram Nair,25,Female,No,No,Yes,Mobile,0.9,Comedy,Paid
+596,Aditi Kumar,23,Female,Yes,Yes,No,Smart TV,5.7,Romance,Free
+597,Abhishek Tiwari,18,Male,Yes,Yes,Yes,Mobile,3.7,Action,Paid
+598,Simran Kumar,24,Female,No,No,No,Tablet,4.8,Comedy,Paid
+599,Ankit Verma,20,Female,Yes,Yes,Yes,Tablet,0.7,Documentary,Free
+600,Sahil Tiwari,22,Male,No,Yes,No,Mobile,5.8,Comedy,Paid
+601,Tanya Verma,25,Male,No,No,No,Tablet,5.8,Horror,Paid
+602,Tanya Sharma,20,Male,Yes,No,Yes,Tablet,2.4,Horror,Paid
+603,Ankit Tiwari,20,Male,Yes,Yes,Yes,Tablet,2.1,Sci-Fi,Free
+604,Megha Chopra,22,Female,Yes,No,No,Mobile,1.6,Sci-Fi,Free
+605,Vikram Pandey,25,Female,Yes,Yes,No,Smart TV,1.3,Horror,Free
+606,Priya Pandey,23,Female,No,No,No,Mobile,5.2,Comedy,Free
+607,Aditi Verma,18,Female,Yes,No,No,Laptop,3.1,Horror,Paid
+608,Isha Kumar,25,Female,Yes,No,Yes,Mobile,4.4,Romance,Free
+609,Pooja Joshi,24,Male,No,No,No,Smart TV,0.6,Drama,Free
+610,Nikhil Kumar,23,Male,No,No,No,Smart TV,1.5,Drama,Free
+611,Pooja Bansal,20,Male,No,No,Yes,Smart TV,1.0,Horror,Free
+612,Divya Rana,23,Male,Yes,Yes,Yes,Smart TV,0.5,Documentary,Free
+613,Priya Reddy,19,Male,No,Yes,Yes,Tablet,0.6,Drama,Paid
+614,Priya Patel,22,Male,No,Yes,Yes,Laptop,3.1,Romance,Paid
+615,Sneha Kumar,21,Female,Yes,No,Yes,Laptop,2.2,Action,Paid
+616,Divya Sharma,23,Male,Yes,No,No,Tablet,2.0,Comedy,Paid
+617,Isha Chopra,19,Female,Yes,Yes,No,Smart TV,3.4,Thriller,Paid
+618,Sahil Reddy,23,Male,Yes,No,No,Mobile,6.0,Horror,Paid
+619,Vikram Bansal,20,Male,No,No,Yes,Mobile,1.3,Drama,Free
+620,Ravi Sharma,18,Male,No,No,Yes,Tablet,0.5,Romance,Free
+621,Sahil Rana,22,Male,No,Yes,No,Laptop,2.0,Horror,Free
+622,Neha Dubey,19,Male,Yes,Yes,No,Laptop,2.4,Romance,Paid
+623,Ravi Chopra,19,Male,No,No,Yes,Tablet,2.6,Horror,Free
+624,Aditi Thakur,20,Male,No,No,No,Laptop,2.3,Action,Paid
+625,Rahul Singh,21,Male,No,No,Yes,Tablet,4.6,Comedy,Free
+626,Tanya Sharma,21,Female,Yes,Yes,Yes,Smart TV,5.2,Documentary,Paid
+627,Rahul Reddy,25,Female,Yes,Yes,Yes,Laptop,4.1,Romance,Free
+628,Aditi Bansal,18,Male,No,Yes,No,Tablet,1.0,Thriller,Paid
+629,Rahul Yadav,19,Female,No,No,Yes,Mobile,3.8,Comedy,Paid
+630,Simran Verma,20,Female,Yes,Yes,Yes,Tablet,3.5,Comedy,Free
+631,Simran Patel,21,Female,Yes,No,Yes,Smart TV,2.3,Action,Paid
+632,Divya Pandey,21,Female,No,Yes,No,Tablet,5.3,Romance,Free
+633,Sneha Thakur,20,Male,No,No,Yes,Mobile,3.1,Sci-Fi,Paid
+634,Pooja Dubey,23,Female,Yes,No,No,Tablet,1.2,Romance,Paid
+635,Rohan Singh,21,Female,No,No,Yes,Laptop,5.5,Sci-Fi,Free
+636,Abhishek Sharma,20,Male,Yes,Yes,No,Laptop,1.7,Sci-Fi,Free
+637,Rohan Saxena,25,Male,No,Yes,No,Laptop,4.8,Comedy,Free
+638,Rahul Kumar,18,Male,No,Yes,No,Laptop,1.0,Drama,Paid
+639,Aditi Gupta,22,Male,No,Yes,No,Smart TV,5.5,Drama,Paid
+640,Ankit Dubey,18,Male,Yes,Yes,Yes,Laptop,4.7,Comedy,Paid
+641,Priya Tiwari,25,Male,No,Yes,Yes,Smart TV,4.6,Thriller,Free
+642,Tanya Singh,25,Male,No,No,No,Smart TV,1.6,Documentary,Paid
+643,Nikhil Yadav,24,Male,Yes,No,No,Smart TV,1.3,Sci-Fi,Free
+644,Aditi Dubey,25,Female,Yes,Yes,No,Laptop,1.0,Horror,Free
+645,Sneha Verma,21,Female,No,Yes,Yes,Laptop,1.8,Thriller,Free
+646,Tanya Reddy,22,Female,No,Yes,No,Laptop,1.3,Action,Paid
+647,Sneha Patel,21,Female,Yes,No,Yes,Smart TV,5.6,Thriller,Free
+648,Abhishek Reddy,24,Female,Yes,No,No,Mobile,4.4,Sci-Fi,Free
+649,Aditi Pandey,21,Female,No,No,No,Smart TV,3.8,Horror,Free
+650,Sahil Joshi,22,Male,No,No,Yes,Tablet,1.7,Documentary,Free
+651,Pooja Joshi,23,Female,Yes,No,No,Mobile,1.4,Drama,Free
+652,Tanya Yadav,20,Male,Yes,No,No,Smart TV,0.9,Romance,Paid
+653,Tanya Chopra,21,Female,Yes,Yes,Yes,Mobile,2.1,Thriller,Free
+654,Priya Chopra,18,Male,No,No,Yes,Smart TV,1.0,Documentary,Paid
+655,Arjun Kumar,22,Female,No,No,No,Tablet,5.0,Comedy,Paid
+656,Tanya Nair,22,Male,Yes,No,No,Tablet,1.6,Comedy,Paid
+657,Divya Gupta,23,Male,No,Yes,No,Mobile,2.3,Sci-Fi,Paid
+658,Simran Kumar,25,Female,No,Yes,No,Tablet,1.3,Horror,Free
+659,Arjun Reddy,24,Male,Yes,No,No,Tablet,1.2,Romance,Free
+660,Isha Yadav,21,Male,Yes,Yes,Yes,Tablet,5.3,Horror,Paid
+661,Ankit Bansal,23,Female,Yes,No,No,Smart TV,4.2,Romance,Paid
+662,Sneha Yadav,25,Female,No,No,No,Laptop,4.3,Action,Paid
+663,Divya Singh,22,Female,Yes,Yes,No,Mobile,3.2,Sci-Fi,Paid
+664,Tanya Rana,20,Female,No,Yes,No,Laptop,3.1,Thriller,Free
+665,Vikram Agarwal,24,Male,Yes,Yes,No,Laptop,3.8,Horror,Paid
+666,Aditi Rana,21,Male,No,Yes,Yes,Smart TV,1.8,Action,Free
+667,Rahul Chopra,24,Male,No,Yes,No,Smart TV,4.3,Comedy,Free
+668,Ravi Sharma,19,Male,No,No,No,Mobile,3.9,Sci-Fi,Free
+669,Sneha Reddy,20,Female,Yes,Yes,Yes,Mobile,4.4,Thriller,Free
+670,Sahil Dubey,18,Male,Yes,Yes,Yes,Laptop,3.4,Action,Paid
+671,Nikhil Dubey,21,Male,No,Yes,No,Laptop,5.5,Thriller,Paid
+672,Sahil Gupta,24,Female,No,No,No,Laptop,2.6,Thriller,Free
+673,Nikhil Kumar,25,Male,No,No,No,Tablet,4.8,Romance,Free
+674,Arjun Agarwal,20,Male,No,Yes,No,Laptop,2.5,Comedy,Free
+675,Tanya Verma,20,Male,No,No,No,Tablet,4.0,Horror,Paid
+676,Karan Dubey,22,Male,No,Yes,Yes,Mobile,1.4,Thriller,Paid
+677,Ravi Thakur,22,Female,No,No,No,Tablet,4.9,Sci-Fi,Paid
+678,Pooja Gupta,22,Female,Yes,Yes,Yes,Laptop,1.5,Drama,Free
+679,Ankit Verma,23,Female,No,Yes,No,Mobile,4.4,Thriller,Paid
+680,Isha Sharma,19,Male,No,No,Yes,Laptop,5.3,Action,Paid
+681,Megha Agarwal,21,Male,Yes,Yes,Yes,Tablet,3.9,Action,Free
+682,Ravi Nair,23,Male,Yes,No,Yes,Laptop,3.6,Comedy,Free
+683,Pooja Pandey,25,Female,Yes,No,Yes,Smart TV,1.0,Sci-Fi,Free
+684,Vikram Pandey,20,Male,Yes,Yes,Yes,Tablet,5.8,Romance,Free
+685,Divya Bansal,21,Male,Yes,No,No,Smart TV,3.4,Comedy,Paid
+686,Priya Bansal,19,Male,No,Yes,No,Laptop,5.6,Horror,Free
+687,Simran Sharma,22,Female,No,No,No,Laptop,3.9,Romance,Free
+688,Pooja Reddy,23,Male,Yes,Yes,No,Tablet,2.8,Horror,Paid
+689,Aditi Bansal,23,Male,No,Yes,Yes,Mobile,2.1,Action,Free
+690,Sneha Patel,19,Male,Yes,Yes,No,Laptop,4.0,Horror,Paid
+691,Isha Chopra,25,Female,No,Yes,Yes,Tablet,0.7,Sci-Fi,Paid
+692,Sahil Sharma,19,Female,No,Yes,No,Tablet,3.7,Horror,Paid
+693,Vikram Kumar,20,Female,No,Yes,No,Smart TV,0.7,Romance,Paid
+694,Vikram Thakur,24,Female,Yes,No,No,Mobile,5.7,Horror,Free
+695,Ankit Rana,20,Female,No,Yes,Yes,Tablet,5.6,Sci-Fi,Free
+696,Simran Joshi,22,Male,No,Yes,Yes,Laptop,4.2,Horror,Free
+697,Arjun Singh,21,Female,No,No,Yes,Laptop,5.8,Documentary,Free
+698,Pooja Gupta,21,Male,No,No,No,Laptop,4.5,Comedy,Free
+699,Simran Thakur,25,Female,No,Yes,Yes,Smart TV,0.9,Action,Paid
+700,Ravi Reddy,23,Female,No,Yes,No,Mobile,4.0,Thriller,Paid
+701,Rahul Mehta,19,Female,Yes,No,Yes,Smart TV,4.8,Thriller,Paid
+702,Sneha Verma,21,Male,No,Yes,No,Smart TV,2.0,Horror,Free
+703,Sahil Sharma,25,Male,Yes,Yes,Yes,Mobile,1.5,Sci-Fi,Free
+704,Ankit Singh,20,Female,Yes,Yes,Yes,Tablet,0.9,Drama,Free
+705,Pooja Saxena,18,Female,Yes,No,No,Laptop,1.6,Romance,Paid
+706,Tanya Gupta,18,Male,No,Yes,No,Smart TV,5.3,Action,Paid
+707,Sahil Singh,21,Male,Yes,No,Yes,Smart TV,1.7,Drama,Paid
+708,Ravi Singh,25,Male,Yes,Yes,No,Mobile,0.9,Thriller,Free
+709,Karan Joshi,22,Male,No,No,No,Tablet,5.0,Action,Free
+710,Tanya Nair,25,Male,Yes,No,No,Smart TV,1.0,Horror,Paid
+711,Simran Mehta,23,Female,No,No,No,Laptop,3.7,Drama,Free
+712,Vikram Nair,21,Female,No,Yes,Yes,Laptop,5.8,Action,Free
+713,Tanya Sharma,19,Female,No,No,No,Mobile,3.8,Documentary,Free
+714,Priya Mehta,18,Male,Yes,Yes,No,Smart TV,1.4,Horror,Paid
+715,Vikram Rana,22,Female,Yes,No,Yes,Tablet,5.1,Romance,Free
+716,Ravi Reddy,19,Female,No,No,No,Tablet,5.3,Action,Paid
+717,Vikram Thakur,25,Male,No,No,Yes,Laptop,2.8,Thriller,Free
+718,Vikram Tiwari,25,Male,Yes,Yes,No,Tablet,5.0,Horror,Free
+719,Abhishek Thakur,24,Female,No,No,No,Smart TV,2.1,Thriller,Paid
+720,Priya Dubey,19,Male,No,No,No,Mobile,1.4,Drama,Free
+721,Priya Yadav,18,Female,No,Yes,Yes,Mobile,0.9,Romance,Paid
+722,Pooja Reddy,22,Female,No,Yes,No,Tablet,2.9,Documentary,Free
+723,Ankit Chopra,23,Male,Yes,No,Yes,Mobile,3.1,Documentary,Free
+724,Megha Joshi,20,Female,Yes,Yes,Yes,Mobile,1.9,Romance,Paid
+725,Isha Patel,24,Male,No,Yes,No,Tablet,4.7,Romance,Paid
+726,Isha Rana,25,Female,No,No,Yes,Smart TV,2.4,Romance,Paid
+727,Divya Tiwari,23,Male,Yes,Yes,No,Tablet,1.1,Romance,Free
+728,Megha Pandey,19,Male,No,No,Yes,Tablet,5.8,Action,Free
+729,Tanya Rana,19,Male,No,Yes,No,Tablet,4.8,Comedy,Paid
+730,Ravi Patel,24,Male,Yes,Yes,No,Smart TV,4.5,Thriller,Paid
+731,Megha Tiwari,25,Female,Yes,No,No,Smart TV,4.0,Documentary,Paid
+732,Rohan Pandey,21,Female,No,Yes,Yes,Mobile,5.3,Romance,Free
+733,Priya Mehta,20,Female,No,Yes,Yes,Mobile,3.5,Sci-Fi,Free
+734,Ravi Kumar,18,Male,No,Yes,No,Laptop,4.8,Action,Paid
+735,Nikhil Thakur,24,Male,No,Yes,No,Laptop,1.6,Action,Free
+736,Rohan Reddy,23,Female,Yes,No,No,Smart TV,4.8,Action,Paid
+737,Sahil Singh,20,Female,Yes,Yes,Yes,Mobile,3.1,Sci-Fi,Paid
+738,Sahil Rana,25,Male,Yes,Yes,Yes,Laptop,2.9,Action,Free
+739,Divya Reddy,23,Male,No,No,No,Tablet,1.8,Drama,Paid
+740,Vikram Reddy,19,Female,No,Yes,Yes,Smart TV,4.6,Comedy,Free
+741,Tanya Gupta,19,Male,No,No,Yes,Smart TV,5.7,Drama,Free
+742,Tanya Rana,18,Male,No,No,Yes,Tablet,2.4,Drama,Paid
+743,Ankit Sharma,22,Male,Yes,No,No,Mobile,5.4,Comedy,Paid
+744,Divya Rana,23,Female,Yes,Yes,Yes,Smart TV,0.7,Documentary,Paid
+745,Nikhil Pandey,19,Female,No,No,Yes,Mobile,4.6,Action,Free
+746,Ravi Mehta,19,Female,No,Yes,Yes,Laptop,3.6,Romance,Paid
+747,Priya Reddy,19,Male,Yes,No,Yes,Tablet,1.4,Horror,Free
+748,Isha Verma,25,Male,Yes,Yes,Yes,Smart TV,5.8,Comedy,Paid
+749,Sahil Patel,25,Female,No,No,Yes,Laptop,5.3,Horror,Paid
+750,Sneha Patel,24,Male,No,Yes,Yes,Tablet,6.0,Drama,Paid
+751,Neha Thakur,21,Female,No,Yes,No,Tablet,4.5,Sci-Fi,Paid
+752,Arjun Yadav,18,Male,No,Yes,Yes,Smart TV,5.4,Sci-Fi,Paid
+753,Aditi Sharma,20,Male,Yes,No,No,Mobile,1.0,Comedy,Free
+754,Arjun Tiwari,23,Female,No,No,Yes,Smart TV,3.4,Documentary,Paid
+755,Pooja Yadav,21,Male,No,Yes,No,Laptop,3.1,Documentary,Paid
+756,Rohan Verma,19,Female,No,Yes,No,Tablet,5.2,Action,Free
+757,Sneha Pandey,22,Female,Yes,No,Yes,Tablet,4.4,Romance,Free
+758,Ravi Bansal,25,Female,No,Yes,No,Tablet,5.0,Drama,Free
+759,Ravi Saxena,24,Female,Yes,Yes,No,Tablet,1.6,Comedy,Paid
+760,Priya Joshi,23,Female,Yes,No,No,Smart TV,4.9,Comedy,Paid
+761,Arjun Rana,22,Male,Yes,Yes,No,Smart TV,6.0,Drama,Free
+762,Aditi Dubey,18,Female,Yes,Yes,Yes,Smart TV,4.0,Comedy,Free
+763,Vikram Bansal,21,Female,Yes,No,No,Tablet,3.2,Documentary,Free
+764,Karan Pandey,18,Male,Yes,Yes,No,Smart TV,4.6,Action,Paid
+765,Abhishek Yadav,24,Female,Yes,No,Yes,Smart TV,2.3,Action,Free
+766,Ankit Rana,20,Female,Yes,No,No,Smart TV,4.2,Action,Paid
+767,Abhishek Verma,23,Female,Yes,Yes,No,Tablet,3.7,Action,Free
+768,Nikhil Thakur,18,Female,No,Yes,No,Laptop,1.3,Thriller,Paid
+769,Pooja Singh,18,Male,No,Yes,No,Smart TV,4.4,Drama,Free
+770,Tanya Singh,20,Female,Yes,Yes,Yes,Smart TV,5.5,Thriller,Paid
+771,Karan Tiwari,23,Male,No,No,Yes,Smart TV,1.6,Romance,Paid
+772,Sahil Saxena,22,Female,Yes,Yes,No,Laptop,3.3,Comedy,Paid
+773,Priya Agarwal,24,Male,No,No,No,Smart TV,2.5,Comedy,Free
+774,Karan Pandey,21,Female,No,Yes,Yes,Tablet,5.3,Romance,Paid
+775,Karan Bansal,18,Female,Yes,Yes,Yes,Laptop,5.1,Drama,Free
+776,Sahil Nair,25,Female,Yes,Yes,Yes,Smart TV,3.3,Sci-Fi,Paid
+777,Tanya Chopra,24,Female,No,No,Yes,Mobile,5.8,Romance,Free
+778,Abhishek Singh,21,Female,No,Yes,Yes,Laptop,4.3,Action,Free
+779,Neha Sharma,18,Male,No,No,Yes,Mobile,3.0,Romance,Free
+780,Ankit Chopra,23,Male,Yes,No,Yes,Laptop,1.5,Thriller,Free
+781,Priya Thakur,19,Male,Yes,No,No,Smart TV,3.8,Documentary,Paid
+782,Tanya Sharma,20,Male,Yes,Yes,No,Smart TV,1.5,Drama,Free
+783,Neha Saxena,25,Male,No,No,No,Tablet,1.9,Horror,Free
+784,Neha Joshi,21,Female,No,Yes,Yes,Smart TV,3.6,Horror,Paid
+785,Pooja Saxena,24,Male,Yes,Yes,No,Smart TV,4.6,Drama,Free
+786,Rohan Gupta,20,Male,No,Yes,Yes,Smart TV,5.6,Romance,Paid
+787,Ravi Agarwal,22,Male,Yes,Yes,Yes,Smart TV,2.6,Horror,Paid
+788,Rohan Thakur,21,Female,Yes,No,Yes,Laptop,4.4,Drama,Paid
+789,Rahul Reddy,22,Male,Yes,No,No,Mobile,4.9,Action,Free
+790,Divya Joshi,25,Male,No,No,No,Mobile,4.1,Action,Paid
+791,Neha Rana,24,Male,Yes,Yes,No,Mobile,1.8,Horror,Paid
+792,Nikhil Sharma,24,Female,No,No,No,Smart TV,5.3,Romance,Free
+793,Sneha Rana,25,Male,Yes,Yes,No,Tablet,1.0,Action,Paid
+794,Pooja Saxena,18,Male,Yes,No,No,Tablet,3.8,Thriller,Paid
+795,Neha Yadav,22,Male,Yes,No,No,Laptop,5.8,Drama,Free
+796,Sneha Reddy,25,Female,Yes,No,Yes,Laptop,2.9,Comedy,Paid
+797,Sahil Pandey,19,Female,Yes,Yes,Yes,Smart TV,5.1,Comedy,Free
+798,Neha Dubey,19,Male,Yes,No,No,Laptop,0.7,Horror,Paid
+799,Sneha Sharma,18,Female,Yes,Yes,Yes,Mobile,2.9,Horror,Paid
+800,Sneha Chopra,24,Female,Yes,Yes,Yes,Mobile,3.5,Horror,Paid
